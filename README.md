@@ -1,2 +1,3 @@
 # hello-word
-as a first project it  has been done to learn github essential features
+as a first project it  has been done to learn github essential features.
+this is not iportant.
